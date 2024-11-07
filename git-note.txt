@@ -1,0 +1,5 @@
+STEP 1: git add .
+STEP 2: git commit -m "Message"
+STEP 3: git push
+
+STEP 4: git pull
